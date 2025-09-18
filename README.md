@@ -2,7 +2,6 @@
 **Temperature monitoring robot with obstacle avoidance and UART communication**
 
 ## Description
-Microcontroller Module
 Autonomous navigation system with remote temperature sensing capabilities for ATmega328P microcontroller.
 
 ## Features
