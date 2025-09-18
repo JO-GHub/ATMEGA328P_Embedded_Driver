@@ -58,5 +58,8 @@ Robot moves forward continuously and avoids obstacles automatically.
 ## Author
 Joseph Oddi Obong - Computer Engineering Student, TU Dublin
 
+## Acknowledgments
+Built using course-provided driver templates from TU Dublin Microcontroller Applications module.
+
 ## License
 MIT License - see LICENSE file for details
